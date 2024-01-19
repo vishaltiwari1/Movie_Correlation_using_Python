@@ -11,6 +11,9 @@ The Dataset Used <a href = "https://github.com/vishaltiwari1/Movie_Correlation_u
 - Pandas
 - Matplotlib
 
+## **Tool Used:**
+- Jupyter Notebook
+
 ## **Process:**
 - Data Cleaning: Filling Null value with different methods such as fill down, and using mean.
 - Data Analysis: Using different method for finding correlation
